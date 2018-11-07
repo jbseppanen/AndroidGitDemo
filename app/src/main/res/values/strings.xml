@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GitDemoApplication</string>
+    <string name="app_name">Ad Mops Application</string>
     <string name="action_settings">Settings</string>
 
     <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
